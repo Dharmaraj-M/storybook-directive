@@ -1,0 +1,9 @@
+.btn {
+  @apply text-white text-center rounded shadow-md cursor-pointer bg-gray-400 hover:bg-gray-200 inline-block select-none capitalize;
+}
+.btn-primary {
+  @apply bg-gray-400 text-red-500;
+}
+.btn-secondary {
+  @apply bg-red-300;
+}
